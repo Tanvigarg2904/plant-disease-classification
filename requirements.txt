@@ -1,0 +1,13 @@
+tensorflow
+datasets
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+PyYAML
+tqdm
+fastapi
+uvicorn
+gradio
+pytest
