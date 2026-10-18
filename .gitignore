@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Dataset files
+data/
+
+#Trained model artifacts
+checkpoints/
+models/
